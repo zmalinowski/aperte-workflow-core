@@ -71,6 +71,17 @@
             <organization>BlueSoft</organization>
             <timezone>+1</timezone>
         </developer>
+        <developer>
+            <id>zmalinowski</id>
+            <name>Zbigniew Malinowski</name>
+            <email>zmalinowski@bluesoft.net.pl</email>
+            <roles>
+                <role>Developer</role>
+                <role>Designer</role>
+            </roles>
+            <organization>BlueSoft</organization>
+            <timezone>+1</timezone>
+        </developer>
     </developers>
 
     <properties>
